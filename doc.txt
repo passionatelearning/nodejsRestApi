@@ -1,0 +1,1 @@
+{"name" : "Pizzeria", "city" : "Vaasa", "street_address" : "123Street", "email_address" : "abd@abc.com", "phone_number" : "0441234567", "opening_time" : "1000", "closing_time" : "2200", "pizza" : [ { "name":"Pollo Greco","size" : "S", "key_ingredients" : [ "Chicken", "Tomato", "Cheese" ] }, { "name":"Al Tonno","size" : "M", "key_ingredients" : [ "Fish", "Tomato", "Cheese" ] } ] }
