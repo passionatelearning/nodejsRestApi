@@ -3,7 +3,7 @@ node server.js
 If you encounter any missing node modules, you need to install them locally. For example
 npm install express
 npm install body-parser
-npm install mongdb
+npm install mongodb
 
 Server will be running on port 8080
 
